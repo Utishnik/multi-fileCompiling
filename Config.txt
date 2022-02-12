@@ -1,0 +1,4 @@
+SrcPath=/SRC/main.c;
+SrcPath=/SRC/core.c;
+oFolder=/SRC/o;
+BuildFolder=Build;
