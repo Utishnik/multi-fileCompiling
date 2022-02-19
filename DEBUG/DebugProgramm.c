@@ -3,11 +3,6 @@
 #include <string.h>
 #include <windows.h>
 
-void SelectivScanf(char scanfI[],)
-{
-
-}
-
 int main(void)
 {
     char fEnterIf=0;
